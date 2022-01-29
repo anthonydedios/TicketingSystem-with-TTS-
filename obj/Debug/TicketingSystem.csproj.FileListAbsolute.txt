@@ -1,0 +1,23 @@
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.exe.config
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.exe
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.pdb
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\bin\Debug\S22.Imap.dll
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.Properties.Resources.resources
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csproj.GenerateResource.Cache
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.exe
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.pdb
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csprojResolveAssemblyReference.cache
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\bin\Debug\MetroFramework.Design.dll
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\bin\Debug\MetroFramework.dll
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.OpenForms.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.Form1.resources
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.exe.config
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.exe
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.pdb
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.exe
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\bin\Debug\TicketingSystem.pdb
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.Form1.resources
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.OpenForms.resources
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.Properties.Resources.resources
+C:\Users\Anthony\Desktop\TicketingSystem\TicketingSystem\obj\Debug\TicketingSystem.csproj.GenerateResource.Cache

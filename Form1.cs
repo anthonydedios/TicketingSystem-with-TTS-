@@ -311,7 +311,48 @@ namespace TicketingSystem
             con.Close();
 
         }
+            
+        
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+
+
+        }
+
+        private void fromtxbx_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+         
+        }
+
+        private void bodytxbx_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void bodycopy_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Emailviewer_ItemActivate(object sender, EventArgs e)
+        {
+
+
+       
+
+        }
+
+        private void Emailviewer_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            
+        }
 
         private void Emailviewer_MouseClick(object sender, MouseEventArgs e)
         {
@@ -357,6 +398,7 @@ namespace TicketingSystem
         {
 
             updatethis();
+        
 
             MailMessage msg = new MailMessage();
 
@@ -366,17 +408,35 @@ namespace TicketingSystem
 
             msg.Body = bodycopy.Text;
 
+
             using (SmtpClient client = new SmtpClient())
             {
                 client.EnableSsl = true;
                 client.UseDefaultCredentials = false;
-                client.Credentials = new NetworkCredential("anthonydedios1998@gmail.com", "***************");
+                client.Credentials = new NetworkCredential("anthonydedios1998@gmail.com", "5673676anthony");
                 client.Host = "smtp.gmail.com";
                 client.Port = 587;
-                client.DeliveryMethod = SmtpDeliveryMethod.Network;  
+                client.DeliveryMethod = SmtpDeliveryMethod.Network;
 
                 client.Send(msg);
             }
+   
+            MessageBox.Show("Done");
+
+            selectionreply();
+            selection();
+            selectionclose();
+            selectionnote();
+
+            ticketnox.Text = "";
+            fromcopy.Text = "";
+            subjectcopy.Text = "";
+            status.Text = "";
+            bodycopy.Text = "";
+        }
+
+        private void Emailviewer_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
 
